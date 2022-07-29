@@ -202,3 +202,6 @@ git rebase --continue # продолжить конфликтный rebase (ср
 Как отменить rebase
 git reflog feature -2        # смотрим лог перемещений ветки, которой делали rebase (в этом примере — feature), видим последний коммит ПЕРЕД rebase, на него и нужно перенести указатель ветки
 git reset --hard feature@{1} # переместить указатель ветки feature на один коммит назад, обновить рабочую дире
+
+## Ссылка на тренажёр [https://learngitbranching.js.org/?locale=ru_RU]
+
