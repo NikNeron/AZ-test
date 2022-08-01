@@ -1,6 +1,4 @@
-Создать новый репозиторий
 
-изменения
 
 
 git init             # создать новый проект в текущей директории
@@ -12,7 +10,7 @@ git clone https://github.com/cyberspacedk/Git-commands.git
 # Kлонировать удаленный репозиторий в директорию «FolderName»
 git clone https://github.com/cyberspacedk/Git-commands.git FolderName 
 
-# клонировать репозиторий в текущую директорию
+# Kлонировать репозиторий в текущую директорию
 git clone https://github.com:nicothin/web-design.git .    
 
 **Просмотр изменений**  
